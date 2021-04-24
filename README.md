@@ -1,6 +1,6 @@
 # The-Cult-Of-Cosmos
 
-# Short reference.
+# Brief reference.
 
 # It is extremely new social network that will change our world and make it great again.
 
